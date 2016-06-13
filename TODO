@@ -1,0 +1,6 @@
+TODO List
+
+- Add test cases with a testing framework ("Catch" or "Google Test")
+- Implement a html renderer
+- Support proxy authentication
+- TUI (Text User Interface)
