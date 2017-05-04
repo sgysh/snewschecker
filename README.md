@@ -1,39 +1,39 @@
-#snewschecker
+# snewschecker
 RSS reader
 
 by Yoshinori Sugino
 
 ---
 
-##License
+## License
 MIT
 
 ---
 
-##How to install
+## How to install
 
     make
     sudo make install
 
-##How to uninstall
+## How to uninstall
 
     sudo make uninstall
 
 ---
 
-##Usage
+## Usage
 
     snewschecker "URL"
 
 ---
 
-##Required
+## Required
  * libmrss
 
-###How to install libmrss
+### How to install libmrss
     sudo apt-get install libmrss0-dev
 
-###Required for libmrss
+### Required for libmrss
  * nXML
  * libcurl
 
